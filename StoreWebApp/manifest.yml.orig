@@ -3,6 +3,6 @@ applications:
   memory: 512M
   instances: 1
   domain: mybluemix.net
-  name: bluecompute-web-app-curtinm
-  host: bluecompute-web-app-curtinm
+  name: bluecompute-web-app
+  host: bluecompute-web-app
   disk_quota: 1024M
