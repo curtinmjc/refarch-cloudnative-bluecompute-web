@@ -11,7 +11,7 @@ block content
           a(href="/inventory").pure-menu-link Inventory
   div.splash-container
     div.splash
-      h1.splash-head Buy our MJC things!
+      h1.splash-head Buy our things!
       p.splash-subhead In our awesome store!
       p
         a(href="/inventory").pure-button.pure-button-primary Browse Item Inventory
